@@ -31,3 +31,13 @@
 
 - [ ] Interpret interest rates as required rates of return, discount rates, or opportunity costs
 - [ ] Explain an interest rate as the sum of a real risk-free rate and premiums that compensate investors for bearing distinct types of risk
+
+In this section a brief explanation of the meaning and interpretation of interest rates is covered.
+
+- Time value of money concerns equivalence relationships between cash flows occurring on different dates.
+- The idea of equivalence relationships is relatively simple.
+  - Consider the following exchange:
+  - You pay \$10,000 today and in return receive \$9,500 today.
+    - Would accept this arrangement? **Not Likely**.
+  - But what if you received the \$9,500 today and paid the \$10,000 one year from now?
+  - Can these amounts be considered equivalent?
