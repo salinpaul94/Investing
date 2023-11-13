@@ -36,6 +36,7 @@ In this section a brief explanation of the meaning and interpretation of interes
 
 - Time value of money concerns equivalence relationships between cash flows occurring on different dates.
 - The idea of equivalence relationships is relatively simple.
+
   - Consider the following exchange:
   - You pay \$10,000 today and in return receive \$9,500 today.
     - Would accept this arrangement? **Not Likely**.
@@ -47,4 +48,14 @@ In this section a brief explanation of the meaning and interpretation of interes
   - > [!IMPORTANT]
     > If \$9,500 today and \$10,000 in one year are equivalent in value, then \$10,000 - \$9,500 = \$500 is the required compensation for receiving \$10,000 in one year rather than now.
   - > [!NOTE]
-    > The interest rate - the required compensation stated as a rate of return - is \$500/\$9,500 = 0.0526 or 5.26 percent.
+    > The interest rate - the required compensation stated as a rate of return - is \$500 / \$9,500 = 0.0526 or 5.26 percent.
+
+- Interest rates can be thought of in three ways.
+  - [ ] First, they can be considered required rates of return - that is, the minimum rate of return an investor must receive in order to accept the investment.
+  - [ ] Second, interest rates can be considered discount rates.
+    - 5.26 percent is that rate at which we discounted the \$10,000 future amount to find its value today.
+    - Thus we use the terms **"interest rate"** and **"discount rate"** almost interchangeably.
+  - [ ] Third, interest rates can be considered opportunity costs.
+  - > [!NOTE]
+    > An **opportunity cost** is the value that investors forgo by choosing a particular course of action. In the example, if the party who supplied \$9,500 had instead decided to spend it today, he would have forgone earning 5.26 percent on the money.
+    > So we can view 5.26 percent as the opportunity cost of current consumption.
