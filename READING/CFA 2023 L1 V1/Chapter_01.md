@@ -41,3 +41,10 @@ In this section a brief explanation of the meaning and interpretation of interes
     - Would accept this arrangement? **Not Likely**.
   - But what if you received the \$9,500 today and paid the \$10,000 one year from now?
   - Can these amounts be considered equivalent?
+  - Possibly, because a payment of \$10,000 a year from now would probably be worth less to you than a payment of \$10,000 today.
+  - **It would be fair, therefore, to discount the \$10,000 received in one year; that is, to cut its value based on how much time passes before the money is paid.**
+  - An **Interest rate**, denoted **r**, is a rate of return that reflects the relationship between differently dated cash flows.
+  - > [!IMPORTANT]
+    > If \$9,500 today and \$10,000 in one year are equivalent in value, then \$10,000 - \$9,500 = \$500 is the required compensation for receiving \$10,000 in one year rather than now.
+  - > [!NOTE]
+    > The interest rate - the required compensation stated as a rate of return - is \$500/\$9,500 = 0.0526 or 5.26 percent.
