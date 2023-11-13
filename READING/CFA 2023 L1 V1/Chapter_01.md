@@ -110,3 +110,20 @@ In this section a brief explanation of the meaning and interpretation of interes
 > The stated interest rate, _r_, and the number of compounding periods, _N_, must be compatible i.e., both should be expressed in same time period. If _r_ is per year then _N_ should be also in Year
 
 ### NON-ANNUAL COMPOUNDING (FUTURE VALUE)
+
+> - Calculate the solution for time value of money problems with different frequencies of compounding.
+
+- Many banks offer a monthly interest rate that compounds 12 times a year.
+- In such an arrangement, they pay interest on interest every month.
+- Rather than quote the periodic monthly interest rate, financial institutions often quote an annual interest rate that we refer to as the **stated annual interest rate** or **quoted interest rate**.
+- _r<sub>s</sub>_ is the stated annual interest.
+
+- With more than one compounding period per year, the future value formula can be expressed as
+  > FV<sub>N</sub> = PV(1 + (_r<sub>s</sub>_/_m_))<sup>_mN_
+  >
+  > - _r<sub>s</sub>_ = stated annual interest rate
+  > - _m_ = number of compounding per year
+  > - _N_ = number of years
+  > - _r<sub>s</sub>/m_ = the stated annual interest rate divided by the number of compounding periods per year.
+  >   [!Note]
+  >   The periodic rate _r<sub>s</sub>/m_, and the number of compounding periods, _mN_, must be compatible.
