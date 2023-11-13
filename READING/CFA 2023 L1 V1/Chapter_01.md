@@ -64,4 +64,7 @@ In this section a brief explanation of the meaning and interpretation of interes
 > r = Real risk-free interest rate + Inflation premium + Default risk premium + Liquidity premium + Maturity Premium
 - [ ] The **real risk-free interest rate** is the single-period interest rate for a completely risk-free security if no inflation were expected.
   - In economic theory, the real risk-free rate reflects the time preferences of individuals for current versus future real consumption.
-- [ ] 
+- [ ] The **inflation premium** compensates investors for expected inflation and reflects the average inflation rate expected over the maturity of the debt.
+  - Inflation reduces the purchasing power of a unit of currency - the amount of goods ans services one can but with it.
+  - The sum of the real risk-free interest rate and the inflation premium is the **normal risk-free interest rate**.
+  - 
