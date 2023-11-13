@@ -1,8 +1,8 @@
-#Chapter 1
+# Chapter 1
 
-##THE TIME VALUE OF MONEY
+## THE TIME VALUE OF MONEY
 
-###LEARNING OUTCOMES
+### LEARNING OUTCOMES
 
 **The reader should be able to:-**
 
