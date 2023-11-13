@@ -20,9 +20,14 @@
 - As investment analysts, much of work also involves evaluating transactions with present and future cash flows.
 - When we place a value on any security, for example, we are attempting to determine the worth of stream of future cash flows.
 - **To carry out all the above tasks accurately, we must understand the mathematics of time value of money problems.**
-- *Money has time value in that individuals value a given amount of money more highly the earlier it is received.*
-- >[!IMPORTANT]
-  >Therefor, a smaller amount of money now may be equivalent in value to a large amount received at a future date.
-- >[!NOTE]
-  >The **time value of money** as a topic in investment mathematics deals with equivalence relationships between cash flows with different dates.
+- _Money has time value in that individuals value a given amount of money more highly the earlier it is received._
+- > [!IMPORTANT]
+  > Therefor, a smaller amount of money now may be equivalent in value to a large amount received at a future date.
+- > [!NOTE]
+  > The **time value of money** as a topic in investment mathematics deals with equivalence relationships between cash flows with different dates.
 - **Mastery of time value of money concepts and techniques is essential for investment analysis.**
+
+### INTEREST RATES
+
+- [] Interpret interest rates as required rates of return, discount rates, or opportunity costs
+- [] Explain an interest rate as the sum of a real risk-free rate and premiums that compensate investors for bearing distinct types of risk
