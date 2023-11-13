@@ -96,11 +96,17 @@ In this section a brief explanation of the meaning and interpretation of interes
 - If you invest for 2 year with 5% interest then in first year you will make \$5 as interest next year the interest to be paid will be calculated on \$105, which is \$5.25.
 - At the end of second year you will have \$100 capital + \$5 + \$5 interest + \$0.25 compound interest.
 - Although the interest earned on the initial investment is important, for a given interest rate it is fixed in size from period to period.
-- **The compound interest earned on reinvested interest is a far more powerful force because, for a given interest rate, it grows in size each period.
+- \*\*The compound interest earned on reinvested interest is a far more powerful force because, for a given interest rate, it grows in size each period.
 - For example \$100 invested today would be worth about \$13,150 after 100 years if compounded annually at 5 percent, but worth more than \$20 million if compounded annually over the same time period at a rate of 13 percent.
-> We need a general formula to handle compounding for any number of periods. The following general formula relates the present value of an initial investment to its future value after N periods:
-> FV<sub>N</sub> = PV(1 + *r*)<sup>N</sup>
-> where
-> - *r* = stated interest rate per period
-> - *N* = number of compounding period
-> In bank example FV<sub>2</sub> = \$100(1 + 0.05)<sup>2</sup> = \$110.25
+  > We need a general formula to handle compounding for any number of periods. The following general formula relates the present value of an initial investment to its future value after N periods:
+  > FV<sub>N</sub> = PV(1 + _r_)<sup>N</sup>
+  > where
+  >
+  > - _r_ = stated interest rate per period
+  > - _N_ = number of compounding period
+  >   In bank example FV<sub>2</sub> = \$100(1 + 0.05)<sup>2</sup> = \$110.25
+
+> [!IMPORTANT]
+> The stated interest rate, _r_, and the number of compounding periods, _N_, must be compatible i.e., both should be expressed in same time period. If _r_ is per year then _N_ should be also in Year
+
+### NON-ANNUAL COMPOUNDING (FUTURE VALUE)
