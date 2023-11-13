@@ -70,3 +70,7 @@ In this section a brief explanation of the meaning and interpretation of interes
   - The sum of the real risk-free interest rate and the inflation premium is the **normal risk-free interest rate**.
   - Many countries have governmental short-term debt whose interest rate can be considered to represent the nominal risk-free interest rate in that country.
   - **The interest rate of a 90-day US Treasury bill (T-bill), for example, represents the nominal risk-free interest rate over that time horizon.**
+- [ ] The **default risk premium** compensates investors for the possibility that the borrower will fail to make a promised payment at the contracted time and in the contracted amount.
+- [ ] The **liquidity premium** compensates investors for the risk of loss relative to an investment's fair value if the investment needs to be converted to cash quickly.
+  - US T-bills, for example, do not bear a liquidity premium because large amounts can be bought and sold without affecting their market price.
+  - Many bonds of small issuers, by contrast, trade infrequently after they are issued; the interest rate on such bonds includes a liquidity premium reflecting the relatively high costs (including the impact on price) of selling a position.
