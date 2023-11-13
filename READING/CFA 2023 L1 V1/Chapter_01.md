@@ -18,3 +18,11 @@
 - As individuals, we often face decisions that involve saving money for a future use, or borrowing money for current consumption.
 - We then need to determine the amount we need to invest, if we are saving, or the cost of borrowing.
 - As investment analysts, much of work also involves evaluating transactions with present and future cash flows.
+- When we place a value on any security, for example, we are attempting to determine the worth of stream of future cash flows.
+- **To carry out all the above tasks accurately, we must understand the mathematics of time value of money problems.**
+- *Money has time value in that individuals value a given amount of money more highly the earlier it is received.*
+- >[!IMPORTANT]
+  >Therefor, a smaller amount of money now may be equivalent in value to a large amount received at a future date.
+- >[!NOTE]
+  >The **time value of money** as a topic in investment mathematics deals with equivalence relationships between cash flows with different dates.
+- **Mastery of time value of money concepts and techniques is essential for investment analysis.**
