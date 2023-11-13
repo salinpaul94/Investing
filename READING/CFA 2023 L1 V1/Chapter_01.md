@@ -57,5 +57,5 @@ In this section a brief explanation of the meaning and interpretation of interes
     - Thus we use the terms **"interest rate"** and **"discount rate"** almost interchangeably.
   - [ ] Third, interest rates can be considered opportunity costs.
   - > [!NOTE]
-    > An **opportunity cost** is the value that investors forgo by choosing a particular course of action. In the example, if the party who supplied \$9,500 had instead decided to spend it today, he would have forgone earning 5.26 percent on the money.
-    > So we can view 5.26 percent as the opportunity cost of current consumption.
+    > An **opportunity cost** is the value that investors forgo by choosing a particular course of action. In the example, if the party who supplied \$9,500 had instead decided to spend it today, he would have forgone earning 5.26 percent on the money. So we can view 5.26 percent as the opportunity cost of current consumption.
+- Economics tells us that interest rates are set in the marketplace by the forces of supply and demand, where investors are suppliers of funds and borrowers are demanders of funds.
