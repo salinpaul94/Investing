@@ -29,5 +29,5 @@
 
 ### INTEREST RATES
 
-- [] Interpret interest rates as required rates of return, discount rates, or opportunity costs
-- [] Explain an interest rate as the sum of a real risk-free rate and premiums that compensate investors for bearing distinct types of risk
+- [ ] Interpret interest rates as required rates of return, discount rates, or opportunity costs
+- [ ] Explain an interest rate as the sum of a real risk-free rate and premiums that compensate investors for bearing distinct types of risk
