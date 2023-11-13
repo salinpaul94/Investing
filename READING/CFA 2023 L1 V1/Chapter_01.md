@@ -78,3 +78,17 @@ In this section a brief explanation of the meaning and interpretation of interes
   - The difference between the interest rate on longer-maturity, liquid Treasury debt and that on short-term Treasury debt reflects a positive maturity premium for the longer-term debt (and possibly different inflation premiums as well).
 
 ### FUTURE VALUE OF A SINGLE CASH FLOW
+
+> - Calculate and interpret the future value (FV) and present value (PV) of a single sum of money, ans ordinary annuity, an annuity due, a perpetuity (PV only), and a series of unequal cash flow.
+> - Demonstrate the use of a time line in modeling and solving time value of money problems
+
+- In this section an introduction to time value associated with a single cash flow or lump-sum investment.
+- We describe the relationship between an initial investment or **present value (PV)**, which earns a rate of return (the interest rate per period) denoted as **"r"**, and its **future value(FV)**, which will be received _"N"_ years or periods from today.
+  > For example you invest \$100 (PV = \$100) in an interest-bearing bank account paying 5 percent annually. At the end of the first year, you will have the \$100 plus the interest earned, 0.05 x \$100 = \$5, for a total of \$105. To formalize this one-period example, we define the following terms.
+
+> - PV = present value of the investment
+> - FV<sub>_N_</sub> = future value of the investment _N_ periods from today
+> - _r_ = rate of interest per period
+> - For _N_ = 1, the expression for the future value of amount PV is
+>   FV<sub>1</sub> = PV(1 + _r_)
+>   For this example, we calculate the future value one year from today as FV<sub>1</sub> = \$100(1 + 0.5) = \$105.
