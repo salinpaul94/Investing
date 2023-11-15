@@ -7,4 +7,6 @@
 > - Describe classifications of assets and markets
 > - Describe the major types of securities, currencies, contracts, commodities, and real assets that trade in organized markets, including their distinguishing characteristics and major subtypes
 > - Describe types of financial intermediaries and services that they provide
-> - 
+> - Compare positions an investor can take in an asset
+> - Calculate and interpret the leverage ratio, tha rate of return on a margin transaction, and the security price at which the investor would receive a margin call
+> - Calculate execution, validity, and clearing instructions
