@@ -25,4 +25,6 @@
   - Contracts
   - Commodities
   - Real assets such as real estate
+- Fixed income analysts evaluate issuer credit-worthiness and macroeconomic prospects to determine which bonds and notes to buy or sell to preserve capital while obtaining a fair rate of return.
+- **Stock analysts study corporate values to determine which stocks to buy or sell to maximize the value of their stock portfolios**.
 - 
