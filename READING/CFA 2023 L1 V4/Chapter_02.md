@@ -27,4 +27,7 @@
   - Real assets such as real estate
 - Fixed income analysts evaluate issuer credit-worthiness and macroeconomic prospects to determine which bonds and notes to buy or sell to preserve capital while obtaining a fair rate of return.
 - **Stock analysts study corporate values to determine which stocks to buy or sell to maximize the value of their stock portfolios**.
-- 
+- Corporate treasurers analyze exchange rates, interest rates, and credit conditions to determine which currencies to trade and which notes to buy or sell to have funds available in a necessary currency.
+- Risk managers work for producers or users of commodities to calculate how many commodity futures contracts to buy or sell to manage inventory risks.
+
+
