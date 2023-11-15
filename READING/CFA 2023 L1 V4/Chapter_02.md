@@ -31,3 +31,4 @@
 - Risk managers work for producers or users of commodities to calculate how many commodity futures contracts to buy or sell to manage inventory risks.
 
 
+*Financial analysts must understand the characteristics of the markets in which their decisions will be executed.*
