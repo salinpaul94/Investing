@@ -3,6 +3,7 @@
 ## Market Organization and Structure
 
 > **LEARNING OUTCOME**
+>
 > - Explain the main functions of financial system
 > - Describe classifications of assets and markets
 > - Describe the major types of securities, currencies, contracts, commodities, and real assets that trade in organized markets, including their distinguishing characteristics and major subtypes
@@ -12,4 +13,5 @@
 > - Compare execution, validity, and clearing instructions
 > - Compare market orders with limit orders
 > - Describe how securities, contracts, and currencies are traded in quote-driven, order-driven, and brokered markets.
-> - 
+> - Describe characteristics of a well-functioning financial system
+> - Describe objectives of market regulation
