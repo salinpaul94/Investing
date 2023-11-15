@@ -15,3 +15,14 @@
 > - Describe how securities, contracts, and currencies are traded in quote-driven, order-driven, and brokered markets.
 > - Describe characteristics of a well-functioning financial system
 > - Describe objectives of market regulation
+
+## INTRODUCTION
+
+- Financial analysts gather and process information to make investment decisions, including those related to **buying and selling assets**.
+- Generally the decision involves :- 
+  - Trading securities
+  - Currencies
+  - Contracts
+  - Commodities
+  - Real assets such as real estate
+- 
