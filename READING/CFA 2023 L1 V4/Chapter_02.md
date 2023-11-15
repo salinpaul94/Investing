@@ -19,7 +19,7 @@
 ## INTRODUCTION
 
 - Financial analysts gather and process information to make investment decisions, including those related to **buying and selling assets**.
-- Generally the decision involves :- 
+- Generally the decision involves :-
   - Trading securities
   - Currencies
   - Contracts
@@ -30,8 +30,8 @@
 - Corporate treasurers analyze exchange rates, interest rates, and credit conditions to determine which currencies to trade and which notes to buy or sell to have funds available in a necessary currency.
 - Risk managers work for producers or users of commodities to calculate how many commodity futures contracts to buy or sell to manage inventory risks.
 
+_Financial analysts must understand the characteristics of the markets in which their decisions will be executed._
 
-*Financial analysts must understand the characteristics of the markets in which their decisions will be executed.*
+_Financial analyst must know the distinctive characteristics of these trading assets._
 
-*Financial analyst must know the distinctive characteristics of these trading assets.*
-
+## THE FUNCTIONS OF THE FINANCIAL SYSTEM
