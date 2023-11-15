@@ -32,3 +32,6 @@
 
 
 *Financial analysts must understand the characteristics of the markets in which their decisions will be executed.*
+
+*Financial analyst must know the distinctive characteristics of these trading assets.*
+
