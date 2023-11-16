@@ -85,3 +85,15 @@ The main functions of the financial system are to facilitate :-
 
 #### Saving
 - People often have money that they choose not to spend now and that they want available in future.
+- To move money from the present to the future savers buy
+  - notes
+  - certificates of deposit
+  - bonds
+  - stocks
+  - mutual funds
+  - real assets such as real estate
+
+- These alternatives generally provide a better rate of return than simply storing money.
+- Savers then sell these assets in the future to fund their future expenditures.
+- **When savers commit money to earn a financial return, they commonly are called investors.**
+- 
