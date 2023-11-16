@@ -103,4 +103,11 @@ The main functions of the financial system are to facilitate :-
 - Investors require a fair rate of return while their money is invested.
 - The required fair rate of return compensates them for the use of money and for the risk that they may lose money if the investment fails or if inflation reduces the real value of their investments.
 - The financial system facilitates savings when institutions create investment vehicles, such as :-
-  -
+  - bank deposits
+  - notes
+  - stocks
+  - mutual funds
+    <br>
+    that investors can acquire and sell without paying substantial transaction costs.
+    <br>
+    **When these instruments are fairly priced and easy to trade, investors will use them to save more.**
