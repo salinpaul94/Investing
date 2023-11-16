@@ -84,8 +84,10 @@ The main functions of the financial system are to facilitate :-
 ### HELPING PEOPLE ACHIEVE THEIR PURPOSES IN USING THE FINANCIAL SYSTEM
 
 #### Saving
+
 - People often have money that they choose not to spend now and that they want available in future.
 - To move money from the present to the future savers buy
+
   - notes
   - certificates of deposit
   - bonds
@@ -96,4 +98,9 @@ The main functions of the financial system are to facilitate :-
 - These alternatives generally provide a better rate of return than simply storing money.
 - Savers then sell these assets in the future to fund their future expenditures.
 - **When savers commit money to earn a financial return, they commonly are called investors.**
-- 
+- _They invest when they purchase assets, and they divest when they sell them._
+  <br><br>
+- Investors require a fair rate of return while their money is invested.
+- The required fair rate of return compensates them for the use of money and for the risk that they may lose money if the investment fails or if inflation reduces the real value of their investments.
+- The financial system facilitates savings when institutions create investment vehicles, such as :-
+  -
