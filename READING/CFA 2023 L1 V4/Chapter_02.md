@@ -80,3 +80,8 @@ The main functions of the financial system are to facilitate :-
 1. The achievement of the purpose for which people use the financial system.
 2. The discovery of the rates of return that equate aggregate savings with aggregate borrowings and
 3. The allocation of capital to the best uses.
+
+### HELPING PEOPLE ACHIEVE THEIR PURPOSES IN USING THE FINANCIAL SYSTEM
+
+#### Saving
+- People often have money that they choose not to spend now and that they want available in future.
