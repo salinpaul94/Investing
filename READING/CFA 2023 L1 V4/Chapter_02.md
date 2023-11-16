@@ -35,3 +35,48 @@ _Financial analysts must understand the characteristics of the markets in which 
 _Financial analyst must know the distinctive characteristics of these trading assets._
 
 ## THE FUNCTIONS OF THE FINANCIAL SYSTEM
+
+> - Explain the main functions of the financial system
+
+- The financial system includes markets and various financial intermediaries that help transfer :-
+  - financial assets
+  - real assets
+  - financial risks
+- in various form :-
+
+  - from one entity to another
+  - from one place to another
+  - from one point in time to another
+
+- These transfers take place whenever someone exchanges
+
+  - one asset or financial contract for another.
+
+- The assets and contracts that people trade include :-
+  - notes
+  - bonds
+  - stocks
+  - exchange-traded funds
+  - currencies
+  - forward contracts
+  - futures contracts
+  - option contracts
+  - swap contracts
+  - certain commodities
+
+> When the buyer and seller voluntarily arrange their trades, as is usually the case, the buyer and the seller both expect to be better off.
+
+People use the financial system for six main purposes :-
+
+1. To save money for the future.
+2. To borrow money for current use.
+3. To raise equity capital.
+4. To manage risks.
+5. To exchange assets for immediate and future deliveries.
+6. To trade on information.
+
+The main functions of the financial system are to facilitate :-
+
+1. The achievement of the purpose for which people use the financial system.
+2. The discovery of the rates of return that equate aggregate savings with aggregate borrowings and
+3. The allocation of capital to the best uses.
